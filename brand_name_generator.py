@@ -1,5 +1,5 @@
 print ("Welcome to the Brand Name Generator!")
 A = input("what's the name of your Birth place? \n")
 B = input("what's your pet's name? \n")
-print ("Your brand name could be " + A + " " + B)
+print ("Your brand name could be " + A[0] + " " + B)
 print ("Thank you for using the Brand Name Generator!")
